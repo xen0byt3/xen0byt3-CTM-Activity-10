@@ -1,0 +1,35 @@
+Logs:
+Hostname: ByteOverseer
+IP Address: 1.1.1.1
+
+User Activity Logs:
+ip a
+hostname -I
+ping 1.1.1.1
+traceroute 1.1.1.1
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup gi4nt-tcr.moc
+dig sinrevilo.moc
+dig xeno-byte.moc
+dig gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap 149.658.125.3
+nmap 78.562.35.6
+nmap -sV 89.562.167.1
+nmap -sV 149.658.125.3
+nmap -sV 78.562.35.6
+nmap -A 89.562.167.1
+nmap -A 149.658.125.3
+nmap -A 78.562.35.6
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+ls
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
