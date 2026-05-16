@@ -1,0 +1,43 @@
+Logs:
+Hostname: rm
+IP Address: 9.9.9.9
+
+User Activity Logs:
+ip a
+hostname -I
+help
+ping https://www.sinrevilo.moc
+traceroute https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+nslookup sinrevilo.moc
+dig https://www.sinrevilo.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+
+ping https://www.xeno-byte.moc
+traceroute https://www.xeno-byte.moc
+nslookup https://www.xeno-byte.moc
+nslookup xeno-byte.moc
+dig https://www.xeno-byte.moc
+dig 149.658.125.3
+nmap 149.658.125.3
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+
+ping https://www.gi4nt-tcr.moc
+traceroute https://www.gi4nt-tcr.moc
+nslookup https://www.gi4nt-tcr.moc
+nslookup gi4nt-tcr.moc
+nmap 78.562.35.6
+nmap -sV 78.562.35.6
+nmap -A 78.562.35.6
+
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
