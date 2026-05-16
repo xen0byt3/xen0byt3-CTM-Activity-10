@@ -1,0 +1,31 @@
+It's a prank!
+Am I real?
+Do the words I speak before you make you feel
+That the love I lay for you will see no ending?
+Well, if you look into my eyes, then you should know
+Logs:
+Hostname: cyberblue
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping gi4nt-tcr.moc
+traceroute gi4nt-tcr.moc
+netstat -tulnp
+nslookup gi4nt-tcr.moc
+dig gi4nt-tcr.moc
+nmap gi4nt-tcr.moc
+nmap -sV gi4nt-tcr.moc
+nmap -A gi4nt-tcr.moc
+arp-scan --localnet
+sudo arp-scan --locanet
+tcpdump -i gi4nt-tcr.moc
+curl gi4nt-tcr.moc
+nc 78.562.35.6 port 80
+whois 78.562.35.6
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
