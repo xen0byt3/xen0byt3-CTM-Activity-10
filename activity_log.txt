@@ -1,0 +1,31 @@
+Logs:
+Hostname: genesis5020
+IP Address: 12.0.0.15
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -l
+hostname -I
+ping https://www.xeno-byte.moc
+traceroute https://www.xeno-byte.moc
+netstat -tulnp
+nslookup https://www.gi4nt-tcr.moc
+dig https://www.gi4nt-tcr.moc
+nmap https://www.xeno-byte.moc
+nmap -sV  192.168.1.79
+nmap -A https://www.xeno-byte.moc
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+ls
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
