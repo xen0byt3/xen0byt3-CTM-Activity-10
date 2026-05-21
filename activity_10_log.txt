@@ -1,0 +1,25 @@
+Logs:
+Hostname: hiddenfox2
+IP: 1.1.1.1
+help
+ip a
+ip route
+hostname -I
+ping 8.8.8.8
+traceroute 8.8.8.8
+nslookup google.com
+dig google.com
+nmap 192.168.1.1
+nmap -sV 192.168.1.1
+nmap -A 192.168.1.1
+tcpdump -i WLAN
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat
+cat hiddenfox2
+wget
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
