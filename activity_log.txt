@@ -1,0 +1,68 @@
+admoVM CTM SIM@adoVM-$: ls
+
+File Listing:
+activity_log.txt
+activity_real.txt
+activity_10_log.txt
+
+admoVM CTM SIM@adoVM-$: cat activity_log.txt
+It's a prank!
+admoVM CTM SIM@adoVM-$: wget
+Invoke ls to see file listing
+admoVM CTM SIM@adoVM-$: cat activity_real.txt
+Am I real?
+Do the words I speak before you make you feel
+That the love I lay for you will see no ending?
+Well, if you look into my eyes, then you should know
+admoVM CTM SIM@adoVM-$: cat activity_10_log.txt
+Logs:
+Hostname: admoVM CTM SIM
+IP: 100.5.88.18
+help
+ip a
+ip route
+hostname -I
+ping 8.8.8.8
+tracert 8.8.8.8
+traceroute 8.8.8.8
+netstat -tulnp
+nslookup facebook.com
+nslookup 8.8.8.8
+nslookup google.com 8.8.8.8
+nslookup 8.8.8.8
+nslookup google
+nslookup facebook
+dig example.com
+nslookup example.com
+dig example.com
+nmap 8.8.8.8
+nmap google.com
+nmap example.com
+nmap sV 8.8.8.8
+nmap -sV 8.8.8.8
+nmap -sV example.com
+ip a
+hostname -I
+ping 100.5.88.18
+traceroute 100.5.88.18
+nslookup 100.5.88.18
+dig 100.5.88.18
+nmap 100.5.88.18
+nmap -sV 100.5.88.18
+nmap -A 100.5.88.18
+tcpdump -i Ethernet
+arp -scan --localnet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat
+wget
+ls
+cat
+cat activity_10_log.txt
+wget
+ls
+cat activity_log.txt
+wget
+cat activity_real.txt
+cat activity_10_log.txt
