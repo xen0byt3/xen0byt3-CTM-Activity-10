@@ -1,0 +1,36 @@
+Logs:
+Hostname: psychegeek
+IP Address: 10.0.0.1
+
+User Activity Logs:
+ip a
+hostname -|
+hostname -1
+ping 10.0.0.1
+traceroute
+traceroute 10.0.0.1
+nslookup 10.0.0.1
+gid 10.0.0.1
+nmap
+arp scan --localnet
+curl github.com
+nc 10.0.0.1 po 80
+hostname -I
+tcpdump -i Ethernet
+nmap
+namap -sV
+nmap -sV
+arp scan --localnet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat
+cat <activitylog.txt>
+wget
+cat <activity_log.txt>
+wget
+
+wget activity_log.txt
+wget activity_real.txt
+wget actviity_10_log.txt
+wget activity_10_log.txt
