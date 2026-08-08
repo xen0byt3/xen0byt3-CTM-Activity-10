@@ -1,0 +1,29 @@
+Logs:
+Hostname: kronosCypher
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ping xeno-byte.moc
+traceroute xeno-byte.moc
+nslookup xeno-byte.moc
+dig 149.658.125.3
+nmap 149.658.125.3
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i Ethernet
+tcpdump -i
+curl xeno-byte.moc
+nc 149.658.125.3#80
+nc 149.658.125.3 80
+whois 149.658.125.3
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
