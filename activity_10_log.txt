@@ -1,0 +1,42 @@
+Logs:
+Hostname: phoenix
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ip route
+hostname -I
+ping sinrevilo.moc
+trace rout sinrevilo.moc
+traceroute sinrevilo.moc
+netstat-tulnp
+netstat -tulnp
+nslookup sinrevilo.moc
+dig sinrevilo.moc
+nmap sinrevilo.moc
+nmap -Pn sinrevilo.moc
+nmap -Pn 89.562.167.1
+nmap -sV sinrevilo.moc
+nmap 89.562.167.1
+nmap -A sinrevilo.moc
+netstat -tulnp
+arp-scan --localnet
+sudo arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump-i <interface>
+curl website
+sudo curl website
+curl sinrevilo.moc
+nc<89.562.167.1> <80>
+whois 89.562.167.1
+ls
+cat activity_real.txt
+cat activity_log.txt
+activity_10_log.txt
+cat activity_10_log.txt
+wget cat activity_real.txt
+wget activity_real.txt
+wget activity_log.txt
+wget activity_10_log.txt
