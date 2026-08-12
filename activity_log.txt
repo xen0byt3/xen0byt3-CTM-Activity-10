@@ -1,0 +1,27 @@
+Logs:
+Hostname: git clone https://github.com/xen0byt3/xen0byt3-CTM-Activity-10.git
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping https://www.sinrevilo.moc
+traceroute https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+nslookup https://www.xeno-byte.moc
+nslookup https://www.gi4nt-tcr.moc
+dig https://www.gi4nt-tcr.moc
+nmap https://www.gi4nt-tcr.moc
+nmap -sV https://www.gi4nt-tcr.moc
+nmap -A https://www.gi4nt-tcr.moc
+tcpdump -i Ethernet
+arp-scan --localnet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_real.txt
+cat activity_10_log.txt
+wget
+wget activity_10_log.txt
