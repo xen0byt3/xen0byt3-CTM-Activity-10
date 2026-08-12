@@ -1,0 +1,20 @@
+Logs:
+Hostname: Joana
+IP Address: 10.0.0.1
+
+User Activity Logs:
+ip a
+hostname -I
+ping www.sinrevilo.moc
+traceroute www.sinrevilo.moc
+nslookup www.sinrevilo.moc
+dig www.sinrevilo.moc
+nmap -sV www.sinrevilo.moc
+nmap www.sinrevilo.moc
+nmap -A www.sinrevilo.moc
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+wget activity_10_log.txt
