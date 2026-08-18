@@ -1,0 +1,27 @@
+Logs:
+Hostname: crypticaegis
+IP Address: 10.3.3.4
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping gi4nt-tcr.moc
+traceroute gi4nt-tcr.moc
+nslook gi4nt-tcr.moc
+nslookup gi4nt-tcr.moc
+dig gi4nt-tcr.moc
+nmap gi4nt-tcr.moc
+nmap -sV gi4nt-tcr.moc
+nmap -A gi4nt-tcr.moc
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
