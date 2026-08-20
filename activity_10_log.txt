@@ -1,0 +1,37 @@
+Logs:
+Hostname: crypticaegis
+IP Address: 10.1.1.2
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping 10.1.1.2
+ping xeno-byte.moc
+traceroute 10.1.1.2
+traceroute xeno-byte.moc
+netstat -tulnp
+nslookup 10.1.1.2
+nslookup xeno-byte.moc
+dig 149.658.125.3
+dig xeno-byte.moc
+nmap xeno-byte.moc
+nmap 149.658.125.3
+nmap xeno-byte.moc
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+arp -scan --localnet
+sudo arp-scan --localnet
+tcpdump -i Ethernet
+curl xeno-byte.moc
+nc 149.658.125.3 80
+whois 149.658.125.3
+Is
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
