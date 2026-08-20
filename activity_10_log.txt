@@ -1,0 +1,33 @@
+Logs:
+Hostname: arleen
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping xeno-byte.moc
+traceroute xeno-byte.moc
+netstat -tulnp
+nslookup xeno-byte.moc
+dig 149.658.125.3
+nmap xeno-byte.moc
+nmap 149.658.125.3
+nmap -sV xeno-byte.moc
+nmap -sV 149.658.125.3
+nmap A xeno-byte.moc
+nmap A  149.658.125.3
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i
+curl
+nc 10.0.0,1
+nc 10.0.0,1 80
+whois 10.0.0.1
+whois 149.658.125.3
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
