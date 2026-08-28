@@ -1,0 +1,43 @@
+Logs:
+Hostname: vectar1s
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping sinrevilo.moc
+traceroute sinrevilo.moc
+netstat -tulnp
+nslookup sinrevilo.moc
+dig sinrevilo.moc
+nmap sinrevilo.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+curl 89.562.167.1
+curl sinrevilo.moc
+curl -i http://sinrevilo.moc/
+fs
+curl -i sinrevilo.moc/
+curl -i sinrevilo.moc
+wget
+whois 89.562.167.1
+nc <89.562.167.1> <80>
+<89.562.167.1> <443>
+nc <89.562.167.1> <443>
+nc <89.562.167.1> <22>
+ls
+
+activity_log.txt
+cat log.txt
+cat activity log text
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+help
+wget activity_10_log.txt
