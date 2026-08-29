@@ -1,0 +1,62 @@
+Logs:
+Hostname: KyberHysteria
+IP Address: 10.0.6.7
+
+User Activity Logs:
+ls
+help
+ip a
+ip route
+hostname -I
+ping sinrevilo.moc
+ping xeno-byte.moc
+ping gi4nt-tcr.moc
+traceroute sinrevilo.moc
+traceroute xeno-byte.moc
+traceroute gi4nt-tcr.moc
+netstat -tulnp sinrevilo.moc
+netstat -tulnp
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup gi4nt-tcr.moc
+dig 89.562.167.1
+dig sinrevilo.moc
+dig xeno-byte.moc
+dig gi4nt-tcr.moc
+nmap sinrevilo.moc
+nmap 89.562.167.1
+nmap 149.658.125.3
+nmap 78.562.35.6
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+nmap -sV 149.658.125.3
+nmap -sV 78.562.35.6
+nmap -A 89.562.167.1
+nmap -A 149.658.125.3
+nmap -A 78.562.35.6
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i wlan
+curl https://www.sinrevilo.moc
+curl www.sinrevilo.moc
+curl sinrevilo.moc
+curl xeno-byte.moc
+curl gi4nt-tcr.moc
+nc 89.562.167.1
+nc 89.562.167.1 80
+nc 89.562.167.1 443
+nc 149.658.125.3 21
+nc 149.658.125.3 22
+nc 149.658.125.3 80
+nc 149.658.125.3 443
+nc 78.562.35.6 23
+nc 78.562.35.6 80
+nc 78.562.35.6 443
+nc 78.562.35.6 445
+nc 78.562.35.6 6379
+whois 78.562.35.6
+whois 149.658.125.3
+whois 89.562.167.1
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
