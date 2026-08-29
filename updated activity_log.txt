@@ -1,0 +1,33 @@
+Logs:
+Hostname: Watchd09
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping www.google.com
+traceroute www.google.com
+netstat -tulnp
+nslookup www.google.com
+dig www.google.com
+nmap www.google.com
+nmap -sV www.google.com
+nmap -A
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i 142.250.190.46
+curl www.google.com
+ncp 80, 443, 22
+ncp 10.0.0.1
+whois 10.0.0.1
+ls
+cat activity_10_log.txt
+
+cat activity_log.txt
+activity_log.txt
+activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
