@@ -1,0 +1,66 @@
+Logs:
+Hostname: CipherPhobia
+IP Address: 10.0.5.15
+
+User Activity Logs:
+help
+ip a
+ip route
+ip route 10.0.5.15
+hostname -I
+ping 10.0.5.15
+ping sinrevilo.moc
+ping xeno-byte.moc
+ping gi4nt-tcr.moc
+traceroute sinrevilo.moc
+traceroute xeno-byte.moc
+traceroute gi4nt-tcr.moc
+netstat -tulnp sinrevilo.moc
+netstat -tulnp
+sinrevilo.moc
+nslookup sirevilo.moc
+nslookup
+nslookup gi4nt-tcr.moc
+nslookup xeno-byte.moc
+nslookup sinrevilo.moc
+dig
+dig sinrevilo.moc
+dig xeno-byte.moc
+dig gi4nt-tcr.moc
+dig 89.562.167.1
+nmap sinrevilo.moc
+nmap gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap 149.658.125.3
+nmap 78.562.35.6
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+nmap -A 89.562.35.6
+nmap -A 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 78.562.35.6
+nmap -sV 78.562.35.6
+help
+tcpdunp -i 89.562.167.1
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i Ethernet
+curl sinrevilo.moc
+curl xeno-byte.moc
+curl gi4nt-tcr.moc
+help
+nc 89.562.167.1 80
+nc 89.562.167.1 43
+nc 89.562.167.1
+nc 149.658.125.3 21
+nc 149.658.125.3 22
+nc 149.658.125.3 80
+nc 78.562.35.6 80
+nc 78.562.35.6 3679
+whois 89.562.167.1
+whois 149.658.125.3
+whois 78.562.35.6
+Is
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
