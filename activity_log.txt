@@ -1,0 +1,35 @@
+Logs:
+Hostname: Acuitypatch
+IP Address: 1.2.3.4
+
+User Activity Logs:
+ip a
+hostname -I
+ping https://www.sinrevilo.moc
+ping https://www.xeno-byte.moc
+ping https://www.gi4nt-tcr.moc
+traceroute https://www.sinrevilo.moc
+traceroute https://www.xeno-byte.moc
+trace https://www.gi4nt-tcr.moc
+traceroute https://www.gi4nt-tcr.moc
+nslook https://www.sinrevilo.moc
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup gi4nt-tcr.moc
+dig sinrevilo.moc
+dig xeno-byte.moc
+dig gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap 149.658.125.3
+nmap 78.562.35.6
+nmap -sV 89.562.167.1
+nmap -sV 149.658.125.3
+nmap -sV 78.562.35.6
+tcpdump -i Ethernet
+arp--scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
