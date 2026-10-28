@@ -1,0 +1,42 @@
+Logs:
+Hostname: cipherCJ
+IP Address: 10.0.0.3
+
+User Activity Logs:
+ping https://www.sinrevilo.moc
+tracerroute https://www.sinrevilo.moc
+traceroute https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+help
+dig https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+nmap https://www.sinrevilo.moc
+nslookup https://www.xeno-byte.moc
+nslookup www.xeno-byte.moc
+dig www.xeno-byte.moc
+nmap https://www.xeno-byte.moc
+ping https://www.xeno-byte.moc
+nmap www.xeno-byte.moc
+dig https://www.xeno-byte.moc
+whois https://www.xeno-byte.moc
+whois https://www.gi4nt-tcr.moc
+whois https://www.sinrevilo.moc
+help
+nslookup https://www.sinrevilo.moc
+nslookup www.sinrevilo.moc
+nslookup sinrevilo.moc
+nslookup xeno-byte.moc
+nslookup gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+tcpdump -i Ethernet 89.562.167.1
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat
+cat activity_real.txt
+sudo cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
