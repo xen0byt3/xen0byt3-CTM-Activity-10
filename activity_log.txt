@@ -1,0 +1,29 @@
+Logs:
+Hostname: LynxValor
+IP Address: 10.5.1.3
+
+User Activity Logs:
+help
+ip a
+ip route
+hostname -I
+ping xeno-byte.moc
+traceroute xeno-byte.moc
+netstat -tulnp
+nslookup xeno-byte.moc
+dig xeno-byte.moc
+nmap xeno-byte.moc
+nmap 8.8.8.8
+nmap 149.658.125.3
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+arp-scan --localnet
+sudo arp-scan --localnet
+tcpdump -i <interface>
+curl <xeno-byte.moc>
+curl xeno-byte.moc
+nc 149.658.125.3 80
+whois 149.658.125.3
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
