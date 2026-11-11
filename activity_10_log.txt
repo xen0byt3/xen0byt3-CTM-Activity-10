@@ -1,0 +1,43 @@
+Logs:
+Hostname: koisheshell
+IP Address: 10.0.0.12
+
+User Activity Logs:
+ip a
+hostname -l
+ping 10.0.0.1
+traceroute 10.0.0.1
+nslookup 10.0.0.1
+nslookup 10.0.0.12
+nslookup 10.0.3.49
+nslookup 10.0.4.111
+dig 10.0.0.1
+dig 10.0.0.12
+nmap 10.0.0.2
+10.0.0.1
+nmap 10.0.0.1
+nmap 10.0.0.12
+netstat -tulnp
+nmap -sV 10.0.0.1
+arp-scan --localnet
+sudo arp-scan --localnet
+nmap 192.168.1.126
+tcpdump -i Ethernet
+nmap 10.0.0.2
+ping 192.168.1.65
+nslookup 192.168.1.65
+nmap -sV 192.168.1.65
+nmap -sV 10.0.0.12
+nmap -sV 10.0.0.1
+nmap -A
+nmap
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget
+l
+ls
+wget activity_log.txt
+wget activity_real.txt
+wget activity_10_log.txt
