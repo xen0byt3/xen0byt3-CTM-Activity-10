@@ -1,0 +1,33 @@
+Logs:
+Hostname: bitstreambreaker
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ping https://www.sinrevilo.moc
+traceroute https://www.sinrevilo.moc
+nslookup https://www.sinrevilo.moc
+dig https://www.sinrevilo.moc
+nslookup www.sinrevilo.moc
+dig www.sinrevilo.moc
+nslookup sinrevilo.com
+nslookup sinrevilo.moc
+dig sinrevilo.moc
+nmap sinrevilo.moc
+nmap -sV sinrevilo.moc
+nmap -A sinrevilo.moc
+nmap xeno-byte.moc
+nmap gi4nt-tcr.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
