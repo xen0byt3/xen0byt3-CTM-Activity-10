@@ -1,0 +1,21 @@
+Logs:
+Hostname: alphaxcx
+IP Address: 10.0.0.1
+
+User Activity Logs:
+help
+ip a
+hostname -I
+ping sinrevilo.moc
+traceroute sinrevilo.moc
+nslookup sinrevilo.moc
+dig sinrevilo.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+tcpdump -i Ethernet
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_10_log.txt
+wget activity_10_log.txt
