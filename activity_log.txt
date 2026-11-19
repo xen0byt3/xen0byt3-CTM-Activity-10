@@ -1,0 +1,22 @@
+Logs:
+Hostname: DogPatch06
+IP Address: 10.5.34.15
+
+User Activity Logs:
+ip a
+hostname -I
+ping sinrevilo.moc
+traceroute xeno-byte.moc
+nslookup gi4nt-tcr.moc
+dig gi4nt-tcr.moc
+nmap 78.562.35.6
+nmap -sV 78.562.35.6
+nmap -A 78.562.35.6
+tcpdump -i eth0
+arp-scan --localnet
+sudo arp-scan --localnet
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
