@@ -1,0 +1,39 @@
+Logs:
+Hostname: sp3ctr0
+IP Address: 10.0.0.14
+
+User Activity Logs:
+ip a
+hostname -I
+ping www.sinrevilo.moc
+traceroute www.sinrevilo.moc
+nslookup sinrevilo.moc
+dig sinrevilo.moc
+nmap 89.562.167.1
+nmap -sV 89.562.167.1
+nmap -A 89.562.167.1
+ping www.xeno-byte.moc
+traceroute www.xeno-byte.moc
+nslookup xeno-byte.moc
+dig xeno-byte.moc
+nmap 149.658.125.3
+namp -sV 149.658.125.3
+nmap -sV 149.658.125.3
+nmap -A 149.658.125.3
+ping www.gi4nt-tcr.moc
+traceroute www.gi4nt-tcr.moc
+nslookup gi4nt-tcr.moc
+dig gi4nt-tcr.moc
+nmap 78.562.35.6
+nmap -sV 78.562.35.6
+nmap -A 78.562.35.6
+tcpdump -i Ethernet
+arp-scan --localnet
+help
+sudo arp-scan --localnet
+activity_log.txt
+ls
+cat activity_log.txt
+cat activity_real.txt
+cat activity_10_log.txt
+wget activity_10_log.txt
